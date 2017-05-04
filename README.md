@@ -6,7 +6,6 @@ This module allow you to complety hide any output as browser or console from sel
 ## Prerequirements<br/>
 pip install selenium
 
-
 ## Install
 1.Download service.py <br/>
 2.Replace your service.py with mine you can find it in: <br />
