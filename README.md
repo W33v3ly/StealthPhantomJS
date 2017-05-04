@@ -18,11 +18,11 @@ pip install selenium
 ```python
 from selenium import webdriver
 
-phantomjs_path = "phantomjs.exe"
-driver = webdriver.PhantomJS(executable_path=phantomjs_path) # the normal SE phantomjs binding
+phantomjs_path = "phantomjs.exe" #Path to our phantomjs.exe
+driver = webdriver.PhantomJS(executable_path=phantomjs_path) 
 driver.set_window_size(1024, 768)
-driver.get('http://facebook.com/') # whatever reachable url
-driver.save_screenshot('screen.png')   #screen.png is a big red rectangle :)
+driver.get('http://facebook.com/')   #open url
+driver.save_screenshot('shot.png')   #screenshot.png from site
 driver.quit()
 print("png file created")
 ```
