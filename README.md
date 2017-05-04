@@ -27,4 +27,5 @@ driver.quit()
 print("png file created")
 ```
 
-6.Now run it and you have working Stealth Selenium+PhatomJS script
+6.Now run it and you have working Stealth Selenium+PhatomJS script<br/>
+(I tested it on Windows 10 + Python 3.6.1)
