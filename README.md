@@ -9,7 +9,7 @@ pip install selenium
 ## Install
 1.Download service.py <br/>
 2.Replace your service.py with mine you can find it in: <br />
-(C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\selenium\webdriver\common92\)<br/>
+(C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\selenium\webdriver\common\)<br/>
 3.Download PhantomJS from http://phantomjs.org/ <br/>
 4.Copy your phantomjs.exe to your optional folder example : C:\PythonProjects\StealthTest\phantomjs.exe<br/>
 5.Now create test file ex: webtest.py with code:<br/>
